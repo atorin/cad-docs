@@ -4,7 +4,7 @@ Questo progetto contiene il testo del Decreto
 Legislativo 7 marzo 2005 numero 82 e ss. mm., meglio noto come Codice
 dell'Amministrazione Digitale (CAD).
 
-Consulta il testo completo delle varie versioni in formato ReadTheDocs:
+Consulta il testo completo delle varie versioni in formato Read the Docs:
 
 http://cad.readthedocs.io/
 
