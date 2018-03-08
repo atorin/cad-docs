@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # -- PROJECT Variables ----------------------------------------------------
-settings_project_name = "Codice della amministrazione digitale"
+settings_project_name = "Codice dell'amministrazione digitale"
 settings_copyright_copyleft = 'AgID - Team Digitale'
 settings_editor_name = 'AgID - Team Digitale'
 settings_doc_version = 'version: latest'
@@ -145,10 +145,10 @@ else:
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
-#html_title = settings_project_name
+html_title = settings_project_name
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
-#html_short_title = None
+html_short_title = "Codice della amministrazione digitale"
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
